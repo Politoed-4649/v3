@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: nxtwallpapers
+    name: Tachikawa
     env: node
     plan: free
     startCommand: npm install && npm start
